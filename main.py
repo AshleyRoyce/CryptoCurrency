@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import requests
-import json
 import pydeck as pdk
 
 #Developed by Ashley Royce
